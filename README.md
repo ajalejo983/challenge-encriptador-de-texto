@@ -8,4 +8,6 @@ Aplicación que encripta textos, podrás intercambiar mensajes secretos con otra
 [![Release date](https://img.shields.io/badge/release_date-Agosto-6936be)](URL_del_badge)
 [![Status](https://img.shields.io/badge/status-desarrollo-79d110)](URL_del_badge)
 
+Agregado de los archivos y carpetas
+
 
